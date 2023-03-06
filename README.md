@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nycolasgh
 - 👀 I’m interested in AI, Automation, Business Inteligence, Data Science and Web Design.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently working with Django.
 - 💞️ I’m looking to collaborate on automation projects, Python repositories and open source projects. 
 - 📫 Send me an e-mail >>>> nycolas@solucleansc.com.br
 
